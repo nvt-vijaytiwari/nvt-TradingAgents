@@ -10,6 +10,7 @@ load_dotenv()
 
 from tradingagents.graph.trading_graph import TradingAgentsGraph
 from tradingagents.default_config import DEFAULT_CONFIG
+from tradingagents.dataflows.dhan_paths import default_dhan_data_dir
 
 config = DEFAULT_CONFIG.copy()
 
@@ -18,12 +19,9 @@ config["llm_provider"]    = "codex"
 config["deep_think_llm"]  = "gpt-5.4"       # strong reasoning
 config["quick_think_llm"] = "gpt-5.4-mini"  # fast for analyst agents
 
-# Dhan data as sole price source
-import os
-config["dhan_data_dir"] = os.getenv(
-    "DHAN_DATA_DIR",
-    "/Users/vijaytiwari/work/AI/stock/data/dhan_data/raw"
-)
+# Dhan data as sole price source. Use the explicit env override when set,
+# otherwise fall back to the repo-local mirror under data/dhan/raw.
+config["dhan_data_dir"] = default_dhan_data_dir()
 
 # Keep debate tight for first run (cheaper + faster)
 config["max_debate_rounds"]      = 1

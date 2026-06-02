@@ -1,0 +1,3002 @@
+[
+  {
+    "ticker": "360ONE",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "3MINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "AADHARHFC",
+    "analysis_date": "2026-05-29",
+    "decision": "Overweight",
+    "error": null
+  },
+  {
+    "ticker": "AARTIIND",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "AAVAS",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABB",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABBOTINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABCAPITAL",
+    "analysis_date": "2026-05-29",
+    "decision": "Overweight",
+    "error": null
+  },
+  {
+    "ticker": "ABDL",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABFRL",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABLBL",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ABREL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "HTTPSConnectionPool(host='chatgpt.com', port=443): Read timed out."
+  },
+  {
+    "ticker": "ABSLAMC",
+    "analysis_date": "2026-05-29",
+    "decision": "Underweight",
+    "error": null
+  },
+  {
+    "ticker": "ACC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ACE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ACMESOLAR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ACUTAAS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ADANIENSOL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ADANIENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ADANIGREEN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ADANIPORTS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ADANIPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AEGISLOG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AEGISVOPAK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AFCONS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AFFLE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AIAENG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AIIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AJANTPHARM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ALKEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AMBER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AMBUJACEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ANANDRATHI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ANANTRAJ",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ANGELONE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ANTHEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ANURAS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "APARINDS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "APLAPOLLO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "APOLLOHOSP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "APOLLOTYRE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "APTUS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ARE&M",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ASAHIINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ASHOKLEY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ASIANPAINT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ASTERDM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ASTRAL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ATGL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ATHERENERG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ATUL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AUBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AUROPHARMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AWL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "AXISBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAJAJ-AUTO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAJAJFINSV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAJAJHFL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAJAJHLDNG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAJFINANCE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BALKRISIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BALRAMCHIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BANDHANBNK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BANKBARODA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BANKINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BATAINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BAYERCROP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BBTC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BDL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BELRISE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BEML",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BERGEPAINT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BHARATFORG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BHARTIARTL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BHARTIHEXA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BHEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BIKAJI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BIOCON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BLS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BLUEDART",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BLUEJET",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BLUESTARCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BOSCHLTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BPCL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BRIGADE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BRITANNIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BSE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "BSOFT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CAMS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CANBK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CANFINHOME",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CANHLIFE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CAPLIPOINT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CARBORUNIV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CARTRADE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CASTROLIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CCL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CDSL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CEATLTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CEMPRO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CENTRALBK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CESC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CGCL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CGPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHALET",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHAMBLFERT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHENNPETRO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHOICEIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHOLAFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CHOLAHLDNG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CIPLA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CLEAN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COALINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COCHINSHIP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COFORGE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COHANCE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COLPAL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CONCOR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CONCORDBIO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "COROMANDEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CPPLUS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CRAFTSMAN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CREDITACC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CRISIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CROMPTON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CUB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CUMMINSIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "CYIENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DABUR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DALBHARAT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DATAPATTNS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DCMSHRIRAM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DEEPAKFERT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DEEPAKNTR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DELHIVERY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DEVYANI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DIVISLAB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DIXON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DLF",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DMART",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DOMS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "DRREDDY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ECLERX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EICHERMOT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EIDPARRY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EIHOTEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ELECON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ELGIEQUIP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EMAMILTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EMCURE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EMMVEE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ENDURANCE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ENGINERSIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ENRIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ERIS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ESCORTS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ETERNAL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "EXIDEIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FACT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FEDERALBNK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FINCABLES",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FIRSTCRY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FIVESTAR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FLUOROCHEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FORCEMOT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FORTIS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "FSL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GABRIEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GAIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GALLANTT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GESHIP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GICRE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GILLETTE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GLAND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GLAXO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GLENMARK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GMDCLTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GMRAIRPORT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GODFRYPHLP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GODIGIT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GODREJCP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GODREJIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GODREJPROP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GPIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GRANULES",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GRAPHITE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GRASIM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GRAVITA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GROWW",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GRSE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GSPL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "GVT&D",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HAL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HAVELLS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HBLENGINE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HCLTECH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HDBFS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HDFCAMC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HDFCLIFE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HEG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HEROMOTOCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HEXT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HFCL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HINDALCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HINDCOPPER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HINDPETRO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HINDUNILVR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HINDZINC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HOMEFIRST",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HONASA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HONAUT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HSCL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HUDCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "HYUNDAI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ICICIAMC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ICICIGI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ICICIPRULI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IDBI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IDEA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IDFCFIRSTB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IEX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IFCI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IGIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IGL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IIFL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IKS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDGN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDHOTEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDIACEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDIAMART",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDIANB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDIGO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDUSINDBK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INDUSTOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INFY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INOXWIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "INTELLECT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IOB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IOC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IPCALAB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IRB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IRCON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IRCTC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IREDA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "IRFC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ITC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ITCHOTELS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ITI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "J&KBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JAINREC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JBCHEPHARM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JBMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JINDALSAW",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JINDALSTEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JIOFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JKCEMENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JKTYRE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JMFINANCIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JPPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSWCEMENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSWDULUX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSWENERGY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSWINFRA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JSWSTEEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JUBLFOOD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JUBLINGREA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JUBLPHARMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JWL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "JYOTICNC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KAJARIACER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KALYANKJIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KARURVYSYA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KAYNES",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KEC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KEI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KFINTECH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KIMS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KIRLOSENG",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KOTAKBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KPIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KPITTECH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "KPRMILL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LALPATHLAB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LATENTVIEW",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LAURUSLABS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LEMONTREE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LENSKART",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LGEINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LICHSGFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LICI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LINDEINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LLOYDSME",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LODHA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LTF",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LTFOODS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LTIM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LTM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LTTS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "LUPIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "M&M",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "M&MFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MAHABANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MANAPPURAM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MANKIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MAPMYINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MARICO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MARUTI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MAXHEALTH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MAZDOCK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MCX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MEDANTA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MEESHO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MFSL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MGL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MINDACORP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MMTC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MOTHERSON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MOTILALOFS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MPHASIS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MRF",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MRPL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MSUMI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "MUTHOOTFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NAM-INDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NATCOPHARM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NATIONALUM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NAUKRI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NAVA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NAVINFLUOR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NBCC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NCC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NESTLEIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NETWEB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NEULANDLAB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NEWGEN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NHPC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NIACL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NIVABUPA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NLCINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NMDC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NSLNISP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NTPC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NTPCGREEN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NUVAMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NUVOCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "NYKAA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "OBEROIRLTY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "OFSS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "OIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "OLAELEC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "OLECTRA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ONESOURCE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ONGC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PAGEIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PARADEEP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PATANJALI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PAYTM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PCBL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PERSISTENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PETRONET",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PFC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PFIZER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PGEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PHOENIXLTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PIDILITIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PIIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PINELABS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PIRAMALFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PNB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PNBHOUSING",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POLICYBZR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POLYCAB",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POLYMED",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POONAWALLA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POWERGRID",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "POWERINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PPLPHARMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PREMIERENE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PRESTIGE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PTCIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PVRINOX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "PWL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RADICO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RAILTEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RAINBOW",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RAMCOCEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RBLBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RECLTD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "REDINGTON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RELIANCE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RHIM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RITES",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RKFORGE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RRKABEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "RVNL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAGILITY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAILIFE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAMMAANCAP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAPPHIRE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SARDAEN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SAREGAMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SBFC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SBICARD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SBILIFE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SBIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SCHAEFFLER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SCI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SHREECEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SHRIRAMFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SHYAMMETL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SIEMENS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SIGNATURE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SJVN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SOBHA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SOLARINDS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SONACOMS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SONATSOFTW",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SPLPETRO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SRF",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "STARHEALTH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUMICHEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUNDARMFIN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUNTV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUPREMEIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SUZLON",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SWANCORP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SWIGGY",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SYNGENE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "SYRMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TARIL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATACAP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATACHEM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATACOMM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATACONSUM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATAELXSI",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATAINVEST",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATAPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATASTEEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TATATECH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TBOTEK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TCS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TECHM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TECHNOE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TEGA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TEJASNET",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TENNIND",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "THELEELA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "THERMAX",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TIINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TIMKEN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TITAGARH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TITAN",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TMCV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TMPV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TORNTPHARM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TORNTPOWER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TRAVELFOOD",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TRENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TRIDENT",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TRITURBINE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TTML",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "TVSMOTOR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UBL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UCOBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ULTRACEMCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UNIONBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UNITDSPR",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UNOMINDA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UPL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "URBANCO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "USHAMART",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "UTIAMC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VBL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VEDL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VIJAYA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VMM",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VOLTAS",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "VTL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WAAREEENER",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WELCORP",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WELSPUNLIV",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WHIRLPOOL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WIPRO",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "WOCKPHARMA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "YESBANK",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZEEL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZENSARTECH",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZENTEC",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZFCVINDIA",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZYDUSLIFE",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  },
+  {
+    "ticker": "ZYDUSWELL",
+    "analysis_date": "2026-05-29",
+    "decision": null,
+    "error": "429 Client Error: Too Many Requests for url: https://chatgpt.com/backend-api/codex/responses"
+  }
+]

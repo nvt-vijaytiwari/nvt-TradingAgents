@@ -169,7 +169,8 @@ OPENROUTER_API_KEY=sk-or-...       # Recommended: cheap + reliable
 # GROQ_API_KEY=gsk_...            # Groq (paid tier only for this app)
 
 # ── Data ─────────────────────────────────────────────────────────────
-DHAN_DATA_DIR=/Users/vijaytiwari/work/AI/stock/data/dhan_data/raw
+# Optional override. Defaults to the repo-local mirror at ./data/dhan/raw.
+DHAN_DATA_DIR=/Users/vijaytiwari/work/AI/TradingAgents/data/dhan/raw
 ```
 
 ### Run a Single Stock Analysis
@@ -194,12 +195,18 @@ Useful flags:
 - `--checkpoint` is accepted but ignored for Codex batch runs until checkpoint metadata is sanitized
 
 Defaults:
-- Scans every `*.csv` under `DHAN_DATA_DIR`
+- Scans every `*.csv` under `DHAN_DATA_DIR`, or `./data/dhan/raw` when the env var is unset
 - Uses Codex OAuth with `gpt-5.4` / `gpt-5.4-mini`
 - Writes committed artifacts to `./batch_reports/`:
   - `all_stocks_codex_<date>.csv`
   - `all_stocks_codex_<date>.md`
   - `all_stocks_codex_<date>.json`
+
+To refresh the repo-local Dhan mirror after downloading a new raw export:
+
+```bash
+.venv/bin/python3 scripts/sync_dhan_data.py --source /path/to/original/dhan/raw
+```
 
 ### Run via CLI (interactive)
 
@@ -213,7 +220,7 @@ tradingagents run
 
 ```bash
 .venv/bin/python3 -m pytest tests/ -q
-# Expected: 108 passed
+# Expected: 122 passed
 ```
 
 ---
@@ -233,7 +240,7 @@ config["key"] = "value"
 | `llm_provider` | `"openai"` | `openai`, `anthropic`, `google`, `openrouter`, `groq`, `deepseek`, `azure`, `codex` |
 | `deep_think_llm` | `"gpt-5.4"` | Model for Research Manager, Trader, Portfolio Manager |
 | `quick_think_llm` | `"gpt-5.4-mini"` | Model for the 4 analysts + risk team |
-| `dhan_data_dir` | `""` | Path to Dhan raw CSV directory. When set, **sole source of truth** for OHLCV |
+| `dhan_data_dir` | `./data/dhan/raw` | Path to Dhan raw CSV directory. When set or mirrored locally, **sole source of truth** for OHLCV |
 | `max_debate_rounds` | `1` | Bull vs Bear debate rounds |
 | `max_risk_discuss_rounds` | `1` | Risk team debate rounds |
 | `checkpoint_enabled` | `False` | LangGraph checkpoint resume on crash |
@@ -243,6 +250,7 @@ config["key"] = "value"
 | `results_dir` | `~/.tradingagents/logs` | Override with `TRADINGAGENTS_RESULTS_DIR` |
 | `data_cache_dir` | `~/.tradingagents/cache` | Override with `TRADINGAGENTS_CACHE_DIR` |
 | `batch_reports/` | `./batch_reports` | Repo-local batch artifacts updated after each ticker |
+| `data/dhan/raw/` | `./data/dhan/raw` | Checked-in Dhan CSV mirror used when `DHAN_DATA_DIR` is unset |
 
 ---
 
@@ -250,17 +258,18 @@ config["key"] = "value"
 
 | Data Type | Source | Requires |
 |---|---|---|
-| OHLCV prices | **Dhan raw CSVs** (local) | `DHAN_DATA_DIR` set |
-| Technical indicators (RSI, MACD…) | Computed from Dhan CSVs | `DHAN_DATA_DIR` set |
+| OHLCV prices | **Dhan raw CSVs** (local mirror) | `DHAN_DATA_DIR` set or `./data/dhan/raw` populated |
+| Technical indicators (RSI, MACD…) | Computed from Dhan CSVs | `DHAN_DATA_DIR` set or `./data/dhan/raw` populated |
 | News articles | yfinance (internet) | No key |
 | Fundamentals / P/E / EPS | yfinance (internet) | No key |
 | Balance sheet / cash flow | yfinance (internet) | No key |
 | Insider transactions | yfinance (internet) | No key |
 
-**Dhan data location:** `/Users/vijaytiwari/work/AI/stock/data/dhan_data/raw/`
+**Dhan data location:** `./data/dhan/raw/`
 - 500 NSE stocks as individual CSVs
 - Data from ~2002 to **2026-05-29** (latest download)
 - Format: `date,open,high,low,close,volume` (lowercase headers)
+- Refresh the mirror with `.venv/bin/python3 scripts/sync_dhan_data.py --source /path/to/original/dhan/raw`
 
 ---
 
@@ -313,7 +322,7 @@ config["quick_think_llm"] = "anthropic/claude-3.5-haiku"
 
 ## Adding a New Stock to Analyse
 
-1. Ensure `<TICKER>.csv` exists in `DHAN_DATA_DIR`
+1. Ensure `<TICKER>.csv` exists in `DHAN_DATA_DIR` or `./data/dhan/raw`
 2. Edit `run_analysis.py`:
    ```python
    TICKER = "TCS"

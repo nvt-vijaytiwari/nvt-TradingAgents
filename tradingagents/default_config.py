@@ -1,5 +1,7 @@
 import os
 
+from tradingagents.dataflows.dhan_paths import default_dhan_data_dir
+
 _TRADINGAGENTS_HOME = os.path.join(os.path.expanduser("~"), ".tradingagents")
 
 DEFAULT_CONFIG = {
@@ -36,10 +38,11 @@ DEFAULT_CONFIG = {
     "max_risk_discuss_rounds": 1,
     "max_recur_limit": 100,
     # Path to local Dhan pre-downloaded OHLCV CSV files.
-    # When set, TradingAgents reads from this directory instead of
-    # calling yfinance for price/indicator data.
+    # When unset explicitly, TradingAgents reads from the repo-local
+    # mirror at data/dhan/raw so a cloned checkout can run without a
+    # separate absolute path.
     # Can also be set via the DHAN_DATA_DIR environment variable.
-    "dhan_data_dir": os.getenv("DHAN_DATA_DIR", ""),
+    "dhan_data_dir": default_dhan_data_dir(),
     # Data vendor configuration
     # Category-level configuration (default for all tools in category)
     "data_vendors": {

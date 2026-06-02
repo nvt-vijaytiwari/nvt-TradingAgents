@@ -55,7 +55,8 @@ def _dhan_dir() -> str:
     if not dhan_dir:
         raise FileNotFoundError(
             "Dhan data directory not configured. "
-            "Set config['dhan_data_dir'] or the DHAN_DATA_DIR environment variable."
+            "Set config['dhan_data_dir'], the DHAN_DATA_DIR environment variable, "
+            "or sync the raw CSVs into data/dhan/raw with scripts/sync_dhan_data.py."
         )
     return dhan_dir
 

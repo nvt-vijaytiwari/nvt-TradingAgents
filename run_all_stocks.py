@@ -10,6 +10,7 @@ import argparse
 from pathlib import Path
 
 from dotenv import load_dotenv
+from tradingagents.dataflows.dhan_paths import default_dhan_data_dir
 
 from tradingagents.batch_analysis import (
     BatchReportWriter,
@@ -59,13 +60,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     load_dotenv()
     args = parse_args()
-
-    from os import getenv
-
-    data_dir = args.data_dir or getenv(
-        "DHAN_DATA_DIR",
-        "/Users/vijaytiwari/work/AI/stock/data/dhan_data/raw",
-    )
+    data_dir = args.data_dir or default_dhan_data_dir()
 
     tickers = discover_dhan_tickers(data_dir)
     if args.limit is not None:

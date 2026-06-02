@@ -158,6 +158,17 @@ Alternatively, copy `.env.example` to `.env` and fill in your keys:
 cp .env.example .env
 ```
 
+### Dhan Raw Data Mirror
+
+TradingAgents keeps a repo-local mirror of the Dhan CSV export at `data/dhan/raw/`.
+If `DHAN_DATA_DIR` is not set, the analysis scripts use that mirror by default.
+
+To refresh the mirror after downloading the latest Dhan data:
+
+```bash
+python scripts/sync_dhan_data.py --source /path/to/original/dhan/raw
+```
+
 ### CLI Usage
 
 Launch the interactive CLI:
@@ -184,6 +195,10 @@ Default artifacts:
 - `batch_reports/all_stocks_codex_<date>.csv`
 - `batch_reports/all_stocks_codex_<date>.md`
 - `batch_reports/all_stocks_codex_<date>.json`
+
+Default data source:
+- `DHAN_DATA_DIR` when set
+- otherwise `data/dhan/raw/`
 
 <p align="center">
   <img src="assets/cli/cli_init.png" width="100%" style="display: inline-block; margin: 0 2%;">
