@@ -1,6 +1,6 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from tradingagents.agents.utils.agent_utils import (
-    get_instrument_context_from_state,
+    build_instrument_context,
     get_balance_sheet,
     get_cashflow,
     get_fundamentals,
@@ -14,7 +14,7 @@ from tradingagents.dataflows.config import get_config
 def create_fundamentals_analyst(llm):
     def fundamentals_analyst_node(state):
         current_date = state["trade_date"]
-        instrument_context = get_instrument_context_from_state(state)
+        instrument_context = build_instrument_context(state["company_of_interest"])
 
         tools = [
             get_fundamentals,

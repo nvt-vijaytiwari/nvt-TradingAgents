@@ -9,7 +9,6 @@ from typing import Annotated
 import os
 from .config import get_config
 from .utils import safe_ticker_component
-from .symbol_utils import normalize_symbol, NoMarketDataError
 
 logger = logging.getLogger(__name__)
 
@@ -33,24 +32,8 @@ def yf_retry(func, max_retries=3, base_delay=2.0):
                 raise
 
 
-def _ensure_date_column(data: pd.DataFrame) -> pd.DataFrame:
-    """Normalize the date column to ``Date``.
-
-    Some yfinance builds leave the index unnamed (so ``reset_index()`` yields
-    ``index``) or use ``Datetime`` for intraday data. Rename the first
-    date-like column so indicators don't silently drop when it isn't ``Date``.
-    """
-    if "Date" in data.columns:
-        return data
-    for candidate in ("index", "Datetime", "date"):
-        if candidate in data.columns:
-            return data.rename(columns={candidate: "Date"})
-    return data
-
-
 def _clean_dataframe(data: pd.DataFrame) -> pd.DataFrame:
     """Normalize a stock DataFrame for stockstats: parse dates, drop invalid rows, fill price gaps."""
-    data = _ensure_date_column(data)
     data["Date"] = pd.to_datetime(data["Date"], errors="coerce")
     data = data.dropna(subset=["Date"])
 
@@ -63,22 +46,37 @@ def _clean_dataframe(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def load_ohlcv(symbol: str, curr_date: str) -> pd.DataFrame:
-    """Fetch OHLCV data with caching, filtered to prevent look-ahead bias.
+    """Fetch OHLCV data filtered to curr_date to prevent look-ahead bias.
 
-    Downloads 15 years of data up to today and caches per symbol. On
-    subsequent calls the cache is reused. Rows after curr_date are
-    filtered out so backtests never see future prices.
+    When dhan_data_dir is configured the Dhan raw directory is the sole
+    source of truth — yfinance is never contacted regardless of whether
+    the file exists or whether the date range is covered.
+
+    When dhan_data_dir is NOT configured the original yfinance path is
+    used (cache file → live download).
     """
-    # Resolve broker/forex symbols (XAUUSD+ -> GC=F) to Yahoo's convention,
-    # then reject values that would escape the cache directory when
-    # interpolated into the cache filename (e.g. ``../../tmp/x``).
-    canonical = normalize_symbol(symbol)
-    safe_symbol = safe_ticker_component(canonical)
+    from .dhan_data import load_ohlcv_from_dhan, DhanDataError
 
     config = get_config()
+
+    if config.get("dhan_data_dir"):
+        # Dhan is the source of truth — hard stop, no yfinance fallback.
+        data = load_ohlcv_from_dhan(symbol, curr_date)
+        if data is None:
+            raise DhanDataError(
+                f"No Dhan data found for '{symbol}'. "
+                f"File expected at: {config['dhan_data_dir']}/{symbol.split('.')[0].upper()}.csv"
+            )
+        return _clean_dataframe(data)
+
+    # ── yfinance path (only when Dhan is not configured) ──────────────────
+    # Reject ticker values that would escape the cache directory when
+    # interpolated into the cache filename (e.g. ``../../tmp/x``).
+    safe_symbol = safe_ticker_component(symbol)
+
     curr_date_dt = pd.to_datetime(curr_date)
 
-    # Cache uses a fixed window (15y to today) so one file per symbol
+    # Cache uses a fixed window (5y to today) so one file per symbol
     today_date = pd.Timestamp.today()
     start_date = today_date - pd.DateOffset(years=5)
     start_str = start_date.strftime("%Y-%m-%d")
@@ -90,32 +88,19 @@ def load_ohlcv(symbol: str, curr_date: str) -> pd.DataFrame:
         f"{safe_symbol}-YFin-data-{start_str}-{end_str}.csv",
     )
 
-    # A cached file may be empty if a prior fetch failed (unknown symbol,
-    # transient rate limit). Treat an empty/columnless cache as a miss and
-    # re-fetch rather than serving the poisoned file forever.
-    data = None
     if os.path.exists(data_file):
-        cached = pd.read_csv(data_file, on_bad_lines="skip", encoding="utf-8")
-        if not cached.empty and "Close" in cached.columns:
-            data = cached
-
-    if data is None:
-        downloaded = yf_retry(lambda: yf.download(
-            canonical,
+        data = pd.read_csv(data_file, on_bad_lines="skip", encoding="utf-8")
+    else:
+        data = yf_retry(lambda: yf.download(
+            symbol,
             start=start_str,
             end=end_str,
             multi_level_index=False,
             progress=False,
             auto_adjust=True,
         ))
-        downloaded = _ensure_date_column(downloaded.reset_index())
-        # Only cache real data — never persist an empty frame.
-        if downloaded.empty or "Close" not in downloaded.columns:
-            raise NoMarketDataError(
-                symbol, canonical, "Yahoo Finance returned no rows"
-            )
-        downloaded.to_csv(data_file, index=False, encoding="utf-8")
-        data = downloaded
+        data = data.reset_index()
+        data.to_csv(data_file, index=False, encoding="utf-8")
 
     data = _clean_dataframe(data)
 
